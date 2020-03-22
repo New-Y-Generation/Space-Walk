@@ -1,0 +1,12 @@
+
+Library/
+
+Temp/
+/.idea/.idea.Space Walk/.idea/contentModel.xml
+/.idea/.idea.Space Walk/.idea/indexLayout.xml
+/.idea/.idea.Space Walk/.idea/modules.xml
+/.idea/.idea.Space Walk/.idea/vcs.xml
+/.idea/.idea.Space Walk/.idea/workspace.xml
+/.idea/.idea.Space Walk/riderModule.iml
+/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
